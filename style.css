@@ -1,0 +1,61 @@
+    .Videos{
+            max-width: 87%;
+            margin: 0 auto;
+            padding: 11em;
+            box-sizing: 1.9rem 3rem;
+            border-radius: 4px;
+            background-color: #bcb3b3ff;
+        }
+
+        h1 {
+            font-family: Cambria, Cochin, Georgia, Times, ;
+            font-size: 3rem;
+            color: #1b1616ff;
+            text-align: center;
+            margin-top: 2rem;
+            border-bottom: 11px solid #9b1b1b;
+            padding-bottom: 0.2rem;
+            background-color: white;
+
+        }
+
+        body {
+            font-family: 'Garamond', 'Georgia', 'Merriweather', serif;
+            background-color: beige; 
+            font-family: Georgia, ;
+            margin: 0%;
+            }
+
+
+        h2{
+            font-family: 'Georgia', serif;
+            color: #9c4242;
+            margin-top: 0rem; 
+            border-bottom: 1px solid #9b1b1b;
+        }
+    
+        iframe {
+        max-width: 57em;
+        height: 23em;
+        display: block;
+        margin: 27px 0;
+        border-radius: 11px;
+        text-align: center;
+        }
+
+        footer {
+          background-color: #9d6666ff;
+          color: black;
+          text-align: center;
+          padding: 1rem;
+          margin-top: 30px;
+        }
+
+        a {
+          color: #e72a0d;
+          text-decoration: none;
+        }
+
+        a:hover {
+          text-decoration: underline;
+        }
